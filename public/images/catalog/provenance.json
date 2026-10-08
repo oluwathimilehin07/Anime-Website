@@ -1,0 +1,176 @@
+{
+  "source": "OpenAI imagegen",
+  "imageType": "AI-generated merchandise concept photography",
+  "supplierPhotographs": false,
+  "verifiedInventory": false,
+  "customerReviews": "Not supplied; no reviews yet",
+  "signedBookAuthentication": "Not supplied; concept only",
+  "referenceSources": [
+    {
+      "subject": "Rain World Slugcats",
+      "url": "https://www.rainworldgame.com/"
+    }
+  ],
+  "assets": [
+    {
+      "file": "naruto-varied.webp",
+      "layout": {
+        "columns": 4,
+        "rows": 4
+      },
+      "bytes": 408514,
+      "origin": "Generated concept photography",
+      "variedBackdrop": true
+    },
+    {
+      "file": "jujutsu-kaisen-varied.webp",
+      "layout": {
+        "columns": 4,
+        "rows": 4
+      },
+      "bytes": 386746,
+      "origin": "Generated concept photography",
+      "variedBackdrop": true
+    },
+    {
+      "file": "one-piece-varied.webp",
+      "layout": {
+        "columns": 4,
+        "rows": 4
+      },
+      "bytes": 435628,
+      "origin": "Generated concept photography",
+      "variedBackdrop": true
+    },
+    {
+      "file": "phone-cases.webp",
+      "layout": {
+        "columns": 4,
+        "rows": 4
+      },
+      "bytes": 264882,
+      "origin": "Generated concept photography",
+      "variedBackdrop": false
+    },
+    {
+      "file": "fullmetal-alchemist.webp",
+      "layout": {
+        "columns": 4,
+        "rows": 4
+      },
+      "bytes": 352520,
+      "origin": "Generated concept photography",
+      "variedBackdrop": false
+    },
+    {
+      "file": "demon-slayer.webp",
+      "layout": {
+        "columns": 4,
+        "rows": 4
+      },
+      "bytes": 416136,
+      "origin": "Generated concept photography",
+      "variedBackdrop": false
+    },
+    {
+      "file": "my-hero-academia.webp",
+      "layout": {
+        "columns": 4,
+        "rows": 4
+      },
+      "bytes": 356234,
+      "origin": "Generated concept photography",
+      "variedBackdrop": false
+    },
+    {
+      "file": "accessories-hoodies.webp",
+      "layout": {
+        "columns": 4,
+        "rows": 5
+      },
+      "bytes": 227618,
+      "origin": "Generated concept photography",
+      "variedBackdrop": false
+    },
+    {
+      "file": "dragon-ball.webp",
+      "layout": {
+        "columns": 4,
+        "rows": 4
+      },
+      "bytes": 421896,
+      "origin": "Generated concept photography",
+      "variedBackdrop": false
+    },
+    {
+      "file": "bleach.webp",
+      "layout": {
+        "columns": 4,
+        "rows": 4
+      },
+      "bytes": 332138,
+      "origin": "Generated concept photography",
+      "variedBackdrop": false
+    },
+    {
+      "file": "attack-on-titan.webp",
+      "layout": {
+        "columns": 4,
+        "rows": 4
+      },
+      "bytes": 354004,
+      "origin": "Generated concept photography",
+      "variedBackdrop": false
+    },
+    {
+      "file": "chainsaw-man.webp",
+      "layout": {
+        "columns": 4,
+        "rows": 4
+      },
+      "bytes": 376432,
+      "origin": "Generated concept photography",
+      "variedBackdrop": false
+    },
+    {
+      "file": "hunter-x-hunter.webp",
+      "layout": {
+        "columns": 4,
+        "rows": 4
+      },
+      "bytes": 364824,
+      "origin": "Generated concept photography",
+      "variedBackdrop": false
+    },
+    {
+      "file": "sailor-moon-varied.webp",
+      "layout": {
+        "columns": 4,
+        "rows": 4
+      },
+      "bytes": 369826,
+      "origin": "Generated concept photography",
+      "variedBackdrop": true
+    },
+    {
+      "file": "specials.webp",
+      "layout": {
+        "columns": 4,
+        "rows": 2
+      },
+      "bytes": 252570,
+      "origin": "Generated concept photography",
+      "variedBackdrop": false
+    },
+    {
+      "file": "hero-slugcat-hoodies.webp",
+      "layout": {
+        "columns": 2,
+        "rows": 2
+      },
+      "bytes": 348974,
+      "origin": "Generated concept photography",
+      "variedBackdrop": true
+    }
+  ]
+}
